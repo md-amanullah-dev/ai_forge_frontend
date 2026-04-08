@@ -13,7 +13,7 @@
 
 /* ========== Root Theme Variables ========== */
 :root {
-  --theme-color: #2563eb; /* Tailwind blue-600 */
+  --theme-color: #0ea5e9; /* Sky 600 */
   --radius: 0.625rem;
 
   /* Light mode color tokens */
